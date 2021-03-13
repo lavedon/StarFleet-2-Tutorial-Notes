@@ -1,12 +1,12 @@
 # Tutorial 1 - Basic Navigation
 Note: which keyboard layout you are using
-![](Pasted%20image%2020201217144744.png)
+![](./Images/Pasted%20image%2020201217144744.png)
 
 This tutorial assumes you are using Keyboard layout B (A style function keys are quite rare these days I think)
 1. Your ship starts out docked at starfort 
 	a. Your ship position is 8,77 the same as the fort
 	b. All scanners show the starfort 
-				![[Pasted image 20201203223334.png]]
+				![](./Images/Pasted%20image%2020201203223334.png)
 		i. Both the tactical display
 			![[Pasted image 20201204093352.png]]
 		ii. and Long Range Scanners
