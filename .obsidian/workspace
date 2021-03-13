@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "61d7e48bffccb0ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "539841b1b63724ad",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Star Fleet 2/Tutorial 1 - Basic Navigation.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4294d29f5be83682",
+    "type": "split",
+    "children": [
+      {
+        "id": "088750349d9a0e49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b347d75d7ca481f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "20c784cf9d4407a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2cf14342e5a29fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e005762c3eb1bb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f361231f256d9be6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Star Fleet 2/Tutorial 1 - Basic Navigation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Star Fleet 2/Tutorial 1 - Basic Navigation.md"
+  ]
+}
