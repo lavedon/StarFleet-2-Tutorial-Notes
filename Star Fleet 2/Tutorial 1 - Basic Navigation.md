@@ -4,12 +4,15 @@ Note: which keyboard layout you are using
 
 This tutorial assumes you are using Keyboard layout B (A style function keys are quite rare these days I think)
 1. Your ship starts out docked at starfort 
-	a. Your ship position is 8,77 the same as the fort
-	b. All scanners show the starfort 
-				![](./Images/Pasted%20image%2020201203223334.png)
+	+ Your ship position is 8,77 the same as the fort
+	+ All scanners show the starfort <br />
+		![](./Images/Pasted%20image%2020201203223334.png)
+		<br />
 		i. Both the tactical display
+		<br />
 			![](./Images/Pasted%20image%2020201204093352.png)
 		ii. and Long Range Scanners
+		<br />
 	   ![](./Images/Pasted%20image%2020201204093504.png)
 	
 
@@ -27,10 +30,12 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 3. Note: the object in the TARGET information area, bottom left, is now "Planet"
 ![](./Images/Pasted%20image%2020201204095549.png)
 4. Once the Target Designator Box (TDB) is over the planet press [T].  [T] brings up the Targeter
+![](./Images/t1-targeter.png)
 ## Set Speed
 1. You can not go faster than light within a system
-	a. Meaning within a system your max speed is 0.9
+	a. i.e. Within a system, your maximum speed is 0.9
 2. use [F3] and [F4] to change your sublight speed
+![](./Images/keys.png)
 
 4. Set your sublight speed to 0.5
 
@@ -39,6 +44,7 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
  7. Press [F9] to start your engines
  8. Ship will auto-rotate to the required heading
  9. You will automatically undock - and move away from starfort
+![](./Images/td1-2.gif)
  10. The NAV information, between the two displays, confirms your target as SS-3A
 	 1. and indicates a course heading in degrees
 ![](./Images/Pasted%20image%2020201217105440.png)
