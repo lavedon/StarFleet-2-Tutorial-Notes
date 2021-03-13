@@ -8,24 +8,24 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 	b. All scanners show the starfort 
 				![](./Images/Pasted%20image%2020201203223334.png)
 		i. Both the tactical display
-			![[Pasted image 20201204093352.png]]
+			![](./Images/Pasted%20image%2020201204093352.png)
 		ii. and Long Range Scanners
-	   ![[Pasted image 20201204093504.png]]
+	   ![](./Images/Pasted%20image%2020201204093504.png)
 	
 
 ## System Navigation - Automatic
 1. Press [N] for Navigation Control
 2. Then [S] to display the System Map
 3. You can now see the rest of the system
- ![[Pasted image 20201204093341.png]]
+ ![](./Images/Pasted%20image%2020201204093341.png)
 4. The planet information box, top right, tells you this is planet A in star system 3
 
 ### Go to the planet
 1. Use the arrow keys to move the Target Designator Box (TDB) until the box is over the planet
-![[sf2-t1-1.gif]]
+![](./Images/sf2-t1-1.gif)
 2. [SHIFT] will move the Target Designator Box (TDB) in larger increments
 3. Note: the object in the TARGET information area, bottom left, is now "Planet"
-![[Pasted image 20201204095549.png]]
+![](./Images/Pasted%20image%2020201204095549.png)
 4. Once the Target Designator Box (TDB) is over the planet press [T].  [T] brings up the Targeter
 ## Set Speed
 1. You can not go faster than light within a system
@@ -45,20 +45,20 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 
  13. The NAV information, between the two displays, confirms your target as SS-3A
 	 1. and indicates a course heading in degrees
-![](Pasted%20image%2020201217105440.png)
+![](./Images/Pasted%20image%2020201217105440.png)
 
 ## Tactical Display
 1. Your ship symbol is always in the center of the tactical display
-![](Pasted%20image%2020201217105634.png)
+![](./Images/Pasted%20image%2020201217105634.png)
 2. Except, when you are docked in starfort, the starfort symbol is in the center of the display
-![](Pasted%20image%2020201217105910.png)
+![](./Images/Pasted%20image%2020201217105910.png)
 4. The tactical display will show objects within five points
 	1. i.e. the starfort will dissapear from the display when you are more than five points away from it
 5. The Long Range Scanner (LRS) displays shows objects within 20 points
 6. You will soon see the sun and planet in your Long Range Scanner (LRS) display
-![](Pasted%20image%2020201217143103.png)
+![](./Images/Pasted%20image%2020201217143103.png)
 7. When you reach your destination, you will be asked if you want to establish orbit.
-![](Pasted%20image%2020201217143322.png)
+![](./Images/Pasted%20image%2020201217143322.png)
 	1. Press [N] to decline. We will cover orbitting later
 
 	
@@ -148,7 +148,7 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 2. You now see a close up of the planet.
 	1. Your tactical display has been replaced with an orbital display (since you are indeed orbitting the planet)
 	
-![](Pasted%20image%2020201217143412.png)
+![](./Images/Pasted%20image%2020201217143412.png)
 
 3. Since this is the first time the planet has been examined closely, your scanners will automatically activate.
 	1.  Scanned information is now entered into your Database.
