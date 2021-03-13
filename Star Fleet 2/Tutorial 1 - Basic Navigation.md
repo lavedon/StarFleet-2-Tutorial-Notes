@@ -37,7 +37,7 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
  5. Press [ENTER] to accept speed
  6. 5. Press [ESC] to return to the main display
  7.  8. Press [F9] to start your engines
- 8.  ![sf2-t1-2](sf2-t1-2.gif)
+ 8.  ![sf2-t1-2](./Images/sf2-t1-2.gif)
 
  9. 
  10. Ship will auto-rotate to the required heading
