@@ -35,6 +35,7 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 
 
 ![](./Images/t1-targeter.png)
+
 ## Set Speed
 1. You can not go faster than light within a system
 	+ i.e. Within a system, your maximum speed is 0.9
@@ -50,6 +51,7 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
  9. You will automatically undock - and move away from starfort
 
 ![](./Images/td1-2.gif)
+
  10. The NAV information, between the two displays, confirms your target as SS-3A
 	+ and indicates a course heading in degrees
 
@@ -61,6 +63,7 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 2. Except, when you are docked in starfort, the starfort symbol is in the center of the display
 
 ![](./Images/Pasted%20image%2020201217105910.png)
+
 3. The tactical display will show objects within five points
 
 ![](./Images/t1-3.png)
