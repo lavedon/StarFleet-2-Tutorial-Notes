@@ -10,7 +10,8 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 		<br />
 		i. Both the tactical display
 		<br />
-			![](./Images/Pasted%20image%2020201204093352.png)
+		![](./Images/Pasted%20image%2020201204093352.png)
+		<br />
 		ii. and Long Range Scanners
 		<br />
 	   ![](./Images/Pasted%20image%2020201204093504.png)
@@ -170,3 +171,4 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 	2. [S] for Special Services
 	3. [Q] to Quit.
 2. Press [Y] to confirm that you want to quit.
+
