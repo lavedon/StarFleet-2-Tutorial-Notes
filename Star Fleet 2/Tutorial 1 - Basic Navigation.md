@@ -31,13 +31,13 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 3. Note: the object in the TARGET information area, bottom left, is now "Planet"
 ![](./Images/Pasted%20image%2020201204095549.png)
 4. Once the Target Designator Box (TDB) is over the planet press [T].  
-[T] brings up the Targeter
-![](./Images/t1-targeter.png)
+	+ [T] brings up the Targeter
+	+ ![](./Images/t1-targeter.png)
 ## Set Speed
 1. You can not go faster than light within a system
 	+ i.e. Within a system, your maximum speed is 0.9
 2. use [F3] and [F4] to change your sublight speed
-![](./Images/keys.png)
+	+ ![](./Images/keys.png)
 
 4. Set your sublight speed to 0.5
 
@@ -46,26 +46,28 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
  7. Press [F9] to start your engines
  8. Ship will auto-rotate to the required heading
  9. You will automatically undock - and move away from starfort
-![](./Images/td1-2.gif)
++  ![](./Images/td1-2.gif)
  10. The NAV information, between the two displays, confirms your target as SS-3A
 	+ and indicates a course heading in degrees
 
-![](./Images/t1-1.png)
+	+ ![](./Images/t1-1.png)
 
 ## Tactical Display
 1. Your ship symbol is always in the center of the tactical display
-![](.Images/t1-2.png)
+	+ ![](.Images/t1-2.png)
 2. Except, when you are docked in starfort, the starfort symbol is in the center of the display
-![](./Images/Pasted%20image%2020201217105910.png)
-4. The tactical display will show objects within five points
-![](./Images/t1-3.png)
+<br />
+	+ ![](./Images/Pasted%20image%2020201217105910.png)
+3. The tactical display will show objects within five points
+	+ ![](./Images/t1-3.png)
 	+ i.e. the starfort will disappear from the display when you are more than five points away from it
-5. The Long Range Scanner (LRS) displays shows objects within 20 points
-![](./Images/t1-4.png)
-6. You will soon see the sun and planet in your Long Range Scanner (LRS) display
-![](./Images/t1-5.png)
-7. When you reach your destination, you will be asked if you want to establish orbit.
-	1. Press [N] to decline. We will cover orbiting later
+4. The Long Range Scanner (LRS) displays shows objects within 20 points
+	+ ![](./Images/t1-4.png)
+<br />
+5. You will soon see the sun and planet in your Long Range Scanner (LRS) display
+	+ ![](./Images/t1-5.png)
+6. When you reach your destination, you will be asked if you want to establish orbit.
+	+ Press [N] to decline. We will cover orbiting later
 
 	
 # Manual System Navigation
