@@ -48,8 +48,9 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
  9. You will automatically undock - and move away from starfort
 ![](./Images/td1-2.gif)
  10. The NAV information, between the two displays, confirms your target as SS-3A
-	 1. and indicates a course heading in degrees
-![](./Images/Pasted%20image%2020201217105440.png)
+	+ and indicates a course heading in degrees
+
+![NAV panel](./Images/td1-1.png)
 
 ## Tactical Display
 1. Your ship symbol is always in the center of the tactical display
