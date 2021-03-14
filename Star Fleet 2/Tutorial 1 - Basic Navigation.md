@@ -30,11 +30,12 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 2. [SHIFT] will move the Target Designator Box (TDB) in larger increments
 3. Note: the object in the TARGET information area, bottom left, is now "Planet"
 ![](./Images/Pasted%20image%2020201204095549.png)
-4. Once the Target Designator Box (TDB) is over the planet press [T].  [T] brings up the Targeter
+4. Once the Target Designator Box (TDB) is over the planet press [T].  
+[T] brings up the Targeter
 ![](./Images/t1-targeter.png)
 ## Set Speed
 1. You can not go faster than light within a system
-	a. i.e. Within a system, your maximum speed is 0.9
+	+ i.e. Within a system, your maximum speed is 0.9
 2. use [F3] and [F4] to change your sublight speed
 ![](./Images/keys.png)
 
@@ -123,6 +124,7 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 	4.	Press [ENTER] to launch the probe.
 	5.	Note in the lower left corner of the screen that the targeted system is SS-45, class O.
 4. Use the TDB again to target the light blue system SS-33 at 28, 3.
+<br />
 5. Press [T] to bring up the Targeter
 6. Since this is a hyperspace journey, you need to set a speed of 1.0 or greater.
 7. We are going to select the maximum safe speed (8.0)
