@@ -54,18 +54,18 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 
 ## Tactical Display
 1. Your ship symbol is always in the center of the tactical display
-	+ ![](.Images/t1-2.png)
+	![](.Images/t1-2.png)
 2. Except, when you are docked in starfort, the starfort symbol is in the center of the display
 <br />
-	+ ![](./Images/Pasted%20image%2020201217105910.png)
+	![](./Images/Pasted%20image%2020201217105910.png)
 3. The tactical display will show objects within five points
 	+ ![](./Images/t1-3.png)
 	+ i.e. the starfort will disappear from the display when you are more than five points away from it
 4. The Long Range Scanner (LRS) displays shows objects within 20 points
-	+ ![](./Images/t1-4.png)
+	![](./Images/t1-4.png)
 <br />
 5. You will soon see the sun and planet in your Long Range Scanner (LRS) display
-	+ ![](./Images/t1-5.png)
+	![](./Images/t1-5.png)
 6. When you reach your destination, you will be asked if you want to establish orbit.
 	+ Press [N] to decline. We will cover orbiting later
 
@@ -128,11 +128,10 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 	4.	Press [ENTER] to launch the probe.
 	5.	Note in the lower left corner of the screen that the targeted system is SS-45, class O.
 4. Use the TDB again to target the light blue system SS-33 at 28, 3.
-<br />
 5. Press [T] to bring up the Targeter
 6. Since this is a hyperspace journey, you need to set a speed of 1.0 or greater.
 7. We are going to select the maximum safe speed (8.0)
-	1. Press [SHIFT][F1]/[F3]/[F3] ([Shift][F2/[F1] / [F1]), and enter the target ([ENTER]).
+	+ Press [SHIFT][F1]/[F3]/[F3] ([Shift][F2/[F1] / [F1]), and enter the target ([ENTER]).
 8. A System Map of the target system then appears, allowing you to set a second target within the system.
 9. Set this by moving the TDB to the play you want to target and press [ENTER].
 10. In this case, we don't know what is in the system except for the star in the center, so let's set the TDB near the system edge, and press [ENTER]
