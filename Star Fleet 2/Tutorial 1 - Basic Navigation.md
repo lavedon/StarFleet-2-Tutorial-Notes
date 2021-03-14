@@ -54,17 +54,18 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 
 ## Tactical Display
 1. Your ship symbol is always in the center of the tactical display
-![](./Images/Pasted%20image%2020201217105634.png)
+![](.Images/t1-2.png)
 2. Except, when you are docked in starfort, the starfort symbol is in the center of the display
 ![](./Images/Pasted%20image%2020201217105910.png)
 4. The tactical display will show objects within five points
-	1. i.e. the starfort will dissapear from the display when you are more than five points away from it
+![](./Images/t1-3.png)
+	+ i.e. the starfort will disappear from the display when you are more than five points away from it
 5. The Long Range Scanner (LRS) displays shows objects within 20 points
+![](./Images/t1-4.png)
 6. You will soon see the sun and planet in your Long Range Scanner (LRS) display
-![](./Images/Pasted%20image%2020201217143103.png)
+![](./Images/t1-5.png)
 7. When you reach your destination, you will be asked if you want to establish orbit.
-![](./Images/Pasted%20image%2020201217143322.png)
-	1. Press [N] to decline. We will cover orbitting later
+	1. Press [N] to decline. We will cover orbiting later
 
 	
 # Manual System Navigation
@@ -74,7 +75,7 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 2. Let's navigate back to starfort manually.
 	* Set sublight speed to 0.3 using [F3] and [F4]
 	* Start your engines [F9]
-	* Go streight to the System Map [Alt][S] and see what happens.
+	* Go straight to the System Map [Alt][S] and see what happens.
 	* You are probably going the wrong way:
 		1. Use [F5] and [F6] to steer your ship on course
 		2. Use [SHIFT] with [F5] and [F6] (rudder keys) to steer the ship in larger increments
@@ -84,7 +85,7 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 	* If things are going to fast - press [ALT][F] to pause and unpause the game.
 	
 4. When the starbase is about 10 points away 
-	* Within the green sqaure on your screen.
+	* Within the green square on your screen.
 	* The square shows the extent of your LRS scan.
 5. Switch to the Main Display [ALT][M]
 	* Check in in your LRS that the starfots is directly ahead of you - if it isn't alter course.
