@@ -50,7 +50,7 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
  10. The NAV information, between the two displays, confirms your target as SS-3A
 	+ and indicates a course heading in degrees
 
-![NAV panel](./Images/td1-1.png)
+![NAV panel](./Images/t1-1.png)
 
 ## Tactical Display
 1. Your ship symbol is always in the center of the tactical display
