@@ -102,7 +102,7 @@ This tutorial assumes you are using Keyboard layout B (A style function keys are
 5. Switch to the Main Display [ALT][M]
 	* Check in in your LRS that the starfots is directly ahead of you - if it isn't alter course.
 	* When it appears on TAC, it should 'come down' the centerline straight at you.
-6. Slow down your engines [F4]([F3])
+6. Slow down your engines ([F4])([F3])
 	* Come to a halt next to the starfort.
 	
 ## Dock Manually
