@@ -27,7 +27,7 @@ The ability of probes to give information about enemy ship movements makes them 
 
 Many commanders faced with the task of capturing or killing a light or heavy cruiser have spent days searching systems without even seeing a cruiser, let alone engaging one. Here are a few hints.
 
-Planetary bases and starforts are the most common sources ofinformation. Most of you have received the messages “Enemy ship arrived in our system” and "Enemy ship has just entered orbit” from an established planetary base. The ship is usually a freighter or starliner.  What if you receive the first message, but it’s not followed by the second?
+Planetary bases and starforts are the most common sources of information. Most of you have received the messages “Enemy ship arrived in our system” and "Enemy ship has just entered orbit” from an established planetary base. The ship is usually a freighter or starliner.  What if you receive the first message, but it’s not followed by the second?
 Has the enemy ship left the system, gone to another planet in the same system, or to a starbase in a part of the system you haven’t explored?  (This can help you locate starbases.) If the system contains only one planet, there is a good chance there is a starbase there.
 
 Occasionally a starfort will send the "Enemy ship arrived in our system” message. If you are cruiser-hunting, go there quickly! The enemy is nearly always a warship, and is often a cruiser.
