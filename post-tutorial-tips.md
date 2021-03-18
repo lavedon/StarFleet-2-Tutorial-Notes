@@ -10,7 +10,7 @@ You can also use Personnel Transfer to allocate yourself more crew and shock tro
 
 Since the first few star systems you visit will probably be unknown before you arrive, set your second target near the edge of the System Map.
 
-Then, if there is nothing in the system worth exploring, it takes only a short time to leave. Also, if you arrive in the system and the only planet is on the other side of the System Map, it’s quicker'to jump to a nearby star system and target the planet from there, rather than navigating
+Then, if there is nothing in the system worth exploring, it takes only a short time to leave. Also, if you arrive in the system and the only planet is on the other side of the System Map, it’s quicker to jump to a nearby star system and target the planet from there, rather than navigating
 across the system at 0.9.
 
 ## PROBE REPORTS
