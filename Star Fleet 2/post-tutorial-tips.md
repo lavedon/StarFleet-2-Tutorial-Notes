@@ -1,7 +1,7 @@
 # Tips From Starfleet Training Manual:
 ## STARTING OUT
 
-At the beginning of a mission, the mission clock will not start until you actually start your engines. So, its worth taking the time to examine the region you are in to locate class F or G star systems, black holes, and other starforts. Set your first target to a suitable class F‘ or G system, preferably in a cluster of systems to give you a good probe spread.
+At the beginning of a mission, the mission clock will not start until you actually start your engines. So, its worth taking the time to examine the region you are in to locate class F or G star systems, black holes, and other starforts. Set your first target to a suitable class F or G system, preferably in a cluster of systems to give you a good probe spread.
 
 Speaking of probes, in missions that the time allowed is the main enemy, it is important to get probes working for you as early as possible. Here's a trick which helps. When docked at a starfort, send out probes to all systems within range before you start moving. If you are docked during
 the course of a mission, the probes will be replaced automatically, but at the start of the mission you will have to do this yourself (using Material Transfer). Strictly, this is stealing more than your fair share, but who’s going to complain? This way, you could command up to 10 probes before resupply, though only five can be in use at any one time. Get into the habit of regular detonation of those probes which are passive (though make a note of those reporting enemy activity). Also, try to send probes to the star systems which are more likely to have 'useful' planets (class F and G) rather than just scattering them around.
