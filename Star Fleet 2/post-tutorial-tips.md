@@ -10,16 +10,16 @@ You can also use Personnel Transfer to allocate yourself more crew and shock tro
 
 Since the first few star systems you visit will probably be unknown before you arrive, set your second target near the edge of the System Map.
 
-Then, if there is nothing in the system worth exploring, it takes only a short time to leave. Also, if you arrive in the system and the only planet is on the other side of the System Map, it’s quicker'to jump to a nearby star system and target the planet from there, rather than navigating
+Then, if there is nothing in the system worth exploring, it takes only a short time to leave. Also, if you arrive in the system and the only planet is on the other side of the System Map, it’s quicker to jump to a nearby star system and target the planet from there, rather than navigating
 across the system at 0.9.
 
 ## PROBE REPORTS
 
 ‘Enemy activity’ can mean a number of things — an enemy ship in the system, enemy on a planet, or an enemy starbase. If you get an 'enemy activity’ report, form a theory and test it. If the system has no planets, that cuts out the second possibility and makes a starbase probable (frustrated players of mission 1D please note).
 
-But it may not he a starbase. It may be a UGA trick which has frustrated many players. It works like this. You get a report of enemy activity from a probe, race to the system and explore it, only to find nothing there. You call up the probes control and find that enemy activity is still reported.  Either the enemy ship is deliberately keeping its distance (your LRS only scans 20x20 whereas a System Map covers an area 80x80) or there is something strange going on. Players above the rank of Altern can put their escorts in system search, but what if the search reveals nothing yetthe probe still reports enemy activity?
+But it may not he a starbase. It may be a UGA trick which has frustrated many players. It works like this. You get a report of enemy activity from a probe, race to the system and explore it, only to find nothing there. You call up the probes control and find that enemy activity is still reported.  Either the enemy ship is deliberately keeping its distance (your LRS only scans 20x20 whereas a System Map covers an area 80x80) or there is something strange going on. Players above the rank of Altern can put their escorts in system search, but what if the search reveals nothing yet the probe still reports enemy activity?
 
-The answer is to go to the corners of the star system, so that your LRS actually covers an area outside the System Map. Sometimes enemy ships, especially scouts, lurk there. Don’t forget, you can move beyOnd the edge of a star system - and if you can, so can the UGA! Scouts are the easiest enemy ships to kill (though you rarely actually catch sight of them), but you must decide whether it is worth your time to explore these remote areas. If you are after larger prey, it probably isn’t.
+The answer is to go to the corners of the star system, so that your LRS actually covers an area outside the System Map. Sometimes enemy ships, especially scouts, lurk there. Don’t forget, you can move beyond the edge of a star system - and if you can, so can the UGA! Scouts are the easiest enemy ships to kill (though you rarely actually catch sight of them), but you must decide whether it is worth your time to explore these remote areas. If you are after larger prey, it probably isn’t.
 
 The ability of probes to give information about enemy ship movements makes them useful even in long missions, after most or all systems have been mapped. Note that a probe will report an enemy ship entering a system, but not one leaving it (the same as an established base). A probe can’t provide as much information as a base, but can be used in systems where you can’t send a landing party, such as a system containing no planets or only a class G planet which you suspect also has a starbase.
 
@@ -27,7 +27,7 @@ The ability of probes to give information about enemy ship movements makes them 
 
 Many commanders faced with the task of capturing or killing a light or heavy cruiser have spent days searching systems without even seeing a cruiser, let alone engaging one. Here are a few hints.
 
-Planetary bases and starforts are the most common sources ofinformation. Most of you have received the messages “Enemy ship arrived in our system” and "Enemy ship has just entered orbit” from an established planetary base. The ship is usually a freighter or starliner.  What if you receive the first message, but it’s not followed by the second?
+Planetary bases and starforts are the most common sources of information. Most of you have received the messages “Enemy ship arrived in our system” and "Enemy ship has just entered orbit” from an established planetary base. The ship is usually a freighter or starliner.  What if you receive the first message, but it’s not followed by the second?
 Has the enemy ship left the system, gone to another planet in the same system, or to a starbase in a part of the system you haven’t explored?  (This can help you locate starbases.) If the system contains only one planet, there is a good chance there is a starbase there.
 
 Occasionally a starfort will send the "Enemy ship arrived in our system” message. If you are cruiser-hunting, go there quickly! The enemy is nearly always a warship, and is often a cruiser.
@@ -45,10 +45,13 @@ race to the planet to try to stop you. But be careful when going into orbit in t
 ## PLANET EXPLORATION AND BOMBARDMENT
 There are several Opinions about the number of landing party teams one should use. A common, but by no means universal, formula is this:
 
-| -- | -- |
-| Tech 1-3: | 1 Survey, 1 Base (with Supplies, if-necessary) |
-| Tech 4-5: | 4 Survey, 5 Base (Supplies) |
-| Tech 6-7: | You won’t be “able to send landing parties until any planetary shields have been knocked out. |
+
+|Tech Level | Number of Teams |
+| --- | --- |
+| Tech 1 - 3: | 1 Survey, 1 Base (with Supplies, if-necessary) |
+| Tech 4 - 5: | 4 Survey, 5 Base (Supplies) |
+| Tech 6 - 7: | You won’t be “able to send landing parties until any planetary shields have been knocked out. |
+
 
 What counts in most cases is not the length of time it takes to complete a survey or establish a base, but how long your ship spends in orbit organizing these things. You can set up all landing party activities in freeze (and all other teleporter functions as well), so get used to saving
 time that way.
@@ -63,3 +66,5 @@ Beware of a trick the UGA sometimes pulls on you. While you are bombarding a pla
 
 If you conduct a bombardment as a prelude to invasion, be careful not to overdo it. When you have reduced the shields to zero, freeze, and look at the Invasions data or planetary bombardment table to check how many of the original cities have been destroyed. In order to conduct a regular
 invasion, you need to leave at least some cities intact to act as your invasion zones, so make sure the bombardment is halted before all are destroyed. If you don’t, and bombard all the cities to destruction, your forthcoming invasion will be easy (as soon as you enter the Invasions option, the planet immediately surrenders), but unfortunately Krellan Headquarters doesn’t count that as a proper capture and you lose Krels for each city destroyed. On the mission tally it will acknowledge such a ‘cheap’ capture, but in Orders it will not. This may explain the frustration some players have experienced when they believe they have met the mission criteria but the program hasn't acknowledged their success. (31)
+
+(Training Manual - Vol 2. Pages 28 - 31)
