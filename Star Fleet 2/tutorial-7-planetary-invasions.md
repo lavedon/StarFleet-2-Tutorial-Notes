@@ -10,48 +10,60 @@ Planetary--Section 10.3, pages 73-76
 2. You have already asked Fleet HQ for permission to invade.
 	+ You have received permission to invade.
 3. The invasion force has arrived in orbit with you.
-4. Pause (Freeze) the game.
+ ![[Pasted image 20210420171307.png]]
+4. Pause (Freeze) the game. ([CTRL] + [F])
+
 
 ## Information 
 1. Press [G]/[I] from the Main Display to show the Invasions screen.
+![[7.1-invasion-1.gif]]
 2. The invasion under your control is listed
 	+ You can see what ships have been assigned
+	![[7.1-ships-assigned.PNG]]
 	+ Note: one destroyer has been assigned but has not yet reached oribt.
+	  ![[Pasted image 20210420181735.png]]
 		+ We will continue without the destroyer
 3. This screen will also show you any other invasions scheduled
 	+ The screen will display BOTH invasions under your control and not under your control.
 4. When you attain a high rank, you can can and/or schedule invasions from this screen.
 5. NOTE: Invasions data also includes other information such as:
 	+ The numer of enemy militia and/or UGA troops on surface.
+	![[Pasted image 20210420181918.png]]
 	+ The original number of cities
+	![[Pasted image 20210420181907.png]]
 		+ Including the number of remaining cities
 	+ The number of legions at your disposal
+	![[Pasted image 20210420181936.png]]
 ## Starting The Invasion
 
 1. Press [ESC] to return to the Strategic Command Menu
 2. Press [P] for Planetary.
 3. Ignore Bombardment 
 	+ Select Orbit Control ([O])
+![[7.1-invasion-to-orbit-control.gif]]
 4. A planetary map will appear.
+![[Pasted image 20210420194951.png]]
 	+ Cities are displayed as X
 	+ '+' are destroyed cities
 5. Move your TDB box over an active city
 6. Press [V]
-7. A map of the city appears, which can include:
+![[7.1-invasion-view-city.gif]]
+8. A map of the city appears, which can include:
 	+ Various enemy units
 	+ Phasers
 	+ Shields
 	+ Etc.
-8. Press [ESC] to return to Invasion Control.
-9. Press [B] for Bombard.
-10. The city is now destroyed
-11. Repeat.
+9. Press [ESC] to return to Invasion Control.
+10. Press [B] for Bombard.
+![[7.1-invasion-bombard-city.gif]]
+12. The city is now destroyed
+13. Repeat.
 	+ Continue destroying cities until only four remain.
-12. Move the TDB in turn to the remaining four cities.
-13. press [S] each time to select them as invasion zones.
-14. The city symbol will change to "[]".
+14. Move the TDB in turn to the remaining four cities.
+15. press [S] each time to select them as invasion zones.
+16. The city symbol will change to "[]".
 	+ You do not need to view each city.
-15. Press [I] to start the invasion.
+17. Press [I] to start the invasion.
 	+ Make sure the four cities have been selected.
 
 ## The Invasion
