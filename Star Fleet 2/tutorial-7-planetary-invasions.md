@@ -10,7 +10,7 @@ Planetary--Section 10.3, pages 73-76
 2. You have already asked Fleet HQ for permission to invade.
 	+ You have received permission to invade.
 3. The invasion force has arrived in orbit with you.
- ![[Pasted image 20210420171307.png]]
+ ![[images/Pasted image 20210420171307.png]]
 4. Pause (Freeze) the game. ([CTRL] + [F])
 
 
